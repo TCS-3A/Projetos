@@ -1,5 +1,5 @@
 # Thiago Carrero
-meu nome é Thiago Carrero Da Silva
+Meu nome é Thiago Carrero Da Silva
 
 Boas vindas ao meu perfil
 °ESTOU ESTUDANDO NO ALURA
